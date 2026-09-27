@@ -2,6 +2,7 @@
 A simple and responsive Student Registration Form created using **HTML and CSS**.
 
 ##About the project
+
 A simple and user-friendly Student Registration Form designed using HTML and CSS. This project allows students to enter their personal, contact, and academic information through a clean and responsive form interface. It was created to practice HTML form elements and CSS styling.
 
 ## Features
